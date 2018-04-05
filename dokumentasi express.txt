@@ -1,0 +1,6 @@
+install path
+-> untuk path url
+
+install mongose
+-> untuk database mongodb
+

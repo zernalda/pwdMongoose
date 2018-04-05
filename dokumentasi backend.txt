@@ -1,0 +1,5 @@
+- coba buat table baru di mongose
+- kemudian buat schema baru
+
+untuk API post, kita harus menambahkan library baru yaitu body-parser
+
